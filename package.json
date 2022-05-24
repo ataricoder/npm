@@ -1,0 +1,19 @@
+{
+  "name": "ataricoder",
+  "version": "1.0.0",
+  "description": "ataricoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataricoder/npm.git"
+  },
+  "author": "ataricoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ataricoder/npm/issues"
+  },
+  "homepage": "https://github.com/ataricoder/npm#readme"
+}
